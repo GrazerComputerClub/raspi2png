@@ -24,7 +24,7 @@ curl -sL https://raw.githubusercontent.com/GrazerComputerClub/raspi2png/master/i
 ## Manual Building
 
 You will need to install libpng before you build the program. On Raspbian / Raspberry Pi OS execute  
-``sudo apt-get install libpng12-dev``  
+``sudo apt-get install libpng-dev``  
 Then just type 'make' and 'make install' in the raspi2png directory you cloned from github.
 
 ## Execute with print key (triggerhappy)

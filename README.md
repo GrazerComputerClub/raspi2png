@@ -1,3 +1,9 @@
+
+# ⚠️ Project Deprecated — DispmanX API No Longer Supported
+This project is no longer functional on current Raspberry Pi OS releases.
+The underlying DispmanX API, which this code depends on, has been removed and is no longer supported in modern Raspberry Pi graphics stacks (Wayland, KMS, DRM).
+
+
 # raspi2png
 
 Utility to take a snapshot of the raspberry pi screen and save it as a PNG file. Works with all Raspberry Pi boards.
